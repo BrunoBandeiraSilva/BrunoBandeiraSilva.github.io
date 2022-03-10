@@ -1,14 +1,11 @@
 ## Welcome to GitHub Pages
 
-Bruno César Bandeira da Silva
-
-
-
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#Qualificações
+ - Curso de Desenvolvimento de Jogos Digitais para Jovens na Escola Setmind. https://setmind.com.br
 
 ```markdown
 Syntax highlighted code block
