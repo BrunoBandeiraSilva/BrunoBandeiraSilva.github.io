@@ -4,12 +4,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-```markdown
-Syntax highlighted code block
-
-#Qualificações
+# Qualificações
  - Curso de Desenvolvimento de Jogos Digitais para Jovens na Escola Setmind.
  <a href="https://setmind.com.br"> setmind.com.br </a>
+
+```markdown
+Syntax highlighted code block
 
 # Header 1
 ## Header 2
