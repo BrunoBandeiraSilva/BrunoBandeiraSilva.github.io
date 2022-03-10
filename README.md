@@ -2,10 +2,18 @@
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-## Qualificações
+# Qualificações
  - Curso de Desenvolvimento de Jogos Digitais para jovens na Escola Setmind.
  <a href="https://setmind.com.br"> setmind.com.br </a>
  - Cursando 4º semestre de Engenharia de Software na UnB (Universidade de Brasília).
+
+# Portfólio
+
+## Jogos
+
+### Soropositivo
+
+[Link]
 
 ```markdown
 Syntax highlighted code block
@@ -24,11 +32,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BrunoBandeiraSilva/BrunoBandeiraSilva.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
