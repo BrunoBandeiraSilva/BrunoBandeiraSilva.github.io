@@ -2,8 +2,6 @@
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
 ## Qualificações
  - Curso de Desenvolvimento de Jogos Digitais para Jovens na Escola Setmind.
  <a href="https://setmind.com.br"> setmind.com.br </a>
@@ -25,8 +23,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/069UQ-Dh4Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
