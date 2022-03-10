@@ -17,6 +17,13 @@ MORPH-F-O! foi desenvolvido durante o GameJam promovido pelo navegador de intern
 
 Página do GameJam: <a href="https://gamejolt.com/c/gamemaker/ogxgj"> GameJamOperaGX </a>
 
+Recursos:
+ - Jogo arcade no estilo "Corrida Interminável"
+ - Suporta 2 jogadores de uma vez
+ - Mecânica simples, apenas um botão
+ - Personagem transita entre dois modos ao longo da jogatina (terrestre e aéreo)
+ - Dificuldade do jogo aumenta conforme o jogador avança
+
 ```markdown
 Syntax highlighted code block
 
