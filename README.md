@@ -2,12 +2,12 @@
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-# Qualificações
+## Qualificações
  - Curso de Desenvolvimento de Jogos Digitais para jovens na Escola Setmind.
  <a href="https://setmind.com.br"> setmind.com.br </a>
  - Cursando 4º semestre de Engenharia de Software na UnB (Universidade de Brasília).
 
-# Portfólio
+## Portfólio
 
 ## Jogos
 
