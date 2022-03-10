@@ -6,6 +6,8 @@ Nascido em Brasília, desde pequeno tem os _videogames_ como principal passatemp
  - Curso de Desenvolvimento de Jogos Digitais para jovens na Escola Setmind.
  <a href="https://setmind.com.br"> setmind.com.br </a>
  - Cursando o 4º semestre de Engenharia de Software na UnB (Universidade de Brasília).
+- Inglês Avançado
+- Experiência com Edição de Vídeo
 
 ## Portfólio
 
