@@ -1,17 +1,19 @@
 ## Introdução
-Nascido em Brasília, desde pequeno tem os _videogames_ como principal passatempo. Ainda criança, criava experiências personalizadas dentro de jogos como Minecraft e as compartilhava com amigos e com a internet. Aos 15 anos de idade, descobriu que a programação ampliava seus horizontes de criação de jogos. Foi natural que a paixão pelo _hobby_ o levasse a trabalhar no mercado como Programador, com foco no mercado de Jogos Digitais.
+Nascido em Brasília, desde pequeno tem os _videogames_ como principal passatempo. Ainda criança, criava experiências personalizadas dentro de jogos como Minecraft e as compartilhava com amigos e com a internet. Aos 15 anos de idade, descobriu que a programação ampliava seus horizontes de criação de jogos. Foi natural que a paixão pelo _hobby_ o levasse a trabalhar como Programador, com foco no mercado de Jogos Digitais.
 
 ## Qualificações
- - 4 anos de experiência em Desenvolvimento de Jogos Digitais
+ - 4 anos de experiência em Programção e Desenvolvimento de Jogos Digitais.
  - Curso de Desenvolvimento de Jogos Digitais para jovens na Escola Setmind.
  <a href="https://setmind.com.br"> setmind.com.br </a>
  - Cursando 4º semestre de Engenharia de Software na UnB (Universidade de Brasília).
 
 ## Portfólio
 
-## Jogos
+### Jogos
 
-### Soropositivo
+*MORPH-F-O!*
+
+MORPH-F-O! foi desenvolvido durante o GameJam
 
 ```markdown
 Syntax highlighted code block
