@@ -13,8 +13,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Soropositivo
 
-[Link]
-
 ```markdown
 Syntax highlighted code block
 
