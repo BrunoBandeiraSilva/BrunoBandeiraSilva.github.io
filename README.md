@@ -5,6 +5,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ## Qualificações
  - Curso de Desenvolvimento de Jogos Digitais para jovens na Escola Setmind.
  <a href="https://setmind.com.br"> setmind.com.br </a>
+ - Cursando 4º semestre de Engenharia de Software na UnB (Universidade de Brasília).
 
 ```markdown
 Syntax highlighted code block
