@@ -116,4 +116,22 @@ Programação e Arte: BrunoBandeiraSilva
 
 ### DEMOs
  
+**Daily Life**
+ 
+Daily Life é uma demo desenvolvida durante o GMTK GameJam de 2020, cujo tema era _Out Of Control_, inglês para "Fora de Controle". No jogo, o jogador tem 5 minutos para organizar sua casa antes que seu cônjuge chegue. Durante esse período, o jogador deve realizar as tarefas domésticas enquanto é atrapalhado constantemente pela desorganização do local e por intempéries, tais como terremotos, inundações e incêndios.
+ 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lf5b0NuLjqY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+[Link para jogar disponível em breve]
+ 
+Recursos:
+ - Jogo em 3D (3 dimensões)
+ - Desafiador e divertido
+ - Vários objetos interativos
+ - Intempéries diversas e aleatórias
+ 
+Motor Utilizado: Godot Engine
+ 
+Programação: BrunoBandeiraSilva
+ 
+Arte e Modelagem: Ighor "ReaperFoxy" Morais
