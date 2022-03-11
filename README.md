@@ -27,9 +27,9 @@ Recursos:
  - Mecânica simples, apenas um botão
  - Personagem transita entre dois modos ao longo da jogatina (terrestre e aéreo)
  - Dificuldade do jogo aumenta conforme o jogador avança
- 
- Motor Utilizado: Godot Engine
- Programação e Arte feitas por BrunoBandeiraSilva
+
+Motor Utilizado: Godot Engine
+Programação e Arte feitas por BrunoBandeiraSilva
 
 
 ### DEMOs
