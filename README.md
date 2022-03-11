@@ -34,6 +34,26 @@ Motor Utilizado: Godot Engine
 
 Programação e Arte: BrunoBandeiraSilva
 
+**SoulWeak**
+
+SoulWeak é um RPG de turnos do gênero _Roguelite_. O jogador assume o papel de uma alma perdida que precisa lutar para escapar de uma masmorra. Para cumprir seu objetivo, enfrentará 10 andares de 3 tipos diferentes de inimigos, cada um destes com suas forças e fraquezas. Ao longo de sua jornada, o personagem pode ser aprimorado, além de ser capaz de adquirir runas mágicas e magias poderosas.
+
+[Link para jogar disponível em breve]
+
+Recursos:
+ - Jogo de turnos dinâmico
+ - Elementos de jogos de tabuleiro (como jogar dados)
+ - 3 tipos de inimigos
+ - 5 runas únicas e 5 magias únicas
+ - Você decide qual caminho tomar na aventura após cada batalha
+ - Melhorias permanentes no seu personagem após cada tentativa
+
+Motor Utilizado: Godot Engine
+
+Programação: BrunoBandeiraSilva
+
+Arte: Ighor "ReaperFoxy" Morais
+
 ### DEMOs
 
 ```markdown
