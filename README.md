@@ -15,7 +15,7 @@ Nascido em Brasília, desde pequeno tem os _videogames_ como principal passatemp
 
 **MORPH-F-O!**
 
-MORPH-F-O! foi desenvolvido para participar do GameJam promovido pelo navegador de internet "Opera GX". O vencedor do Jam receberia a premiação de US$ 10 mil e teria seu jogo incorporado ao navegador. O tema do GameJam foi _UFO_, inglês para OVNI.
+MORPH-F-O!, do gênero "Corrida Interminável", foi desenvolvido para participar do GameJam promovido pelo navegador de internet "Opera GX". O vencedor do Jam receberia a premiação de US$ 10 mil e teria seu jogo incorporado ao navegador. O tema do GameJam foi _UFO_, inglês para OVNI.
 
 Página do GameJam: <a href="https://gamejolt.com/c/gamemaker/ogxgj"> GameJamOperaGX </a>
 
@@ -24,7 +24,7 @@ Página do GameJam: <a href="https://gamejolt.com/c/gamemaker/ogxgj"> GameJamOpe
 <a href="https://gamejolt.com/games/morph-f-o/639358"> Jogar MORPH-F-O! </a>
 
 Recursos:
- - Jogo arcade no estilo "Corrida Interminável"
+ - Jogo arcade no estilo "Corrida Interminável", a diversão não tem fim!
  - Suporta 2 jogadores de uma vez
  - Mecânica simples, apenas um botão
  - Personagem transita entre dois modos ao longo da jogatina (terrestre e aéreo)
@@ -53,6 +53,10 @@ Motor Utilizado: Godot Engine
 Programação: BrunoBandeiraSilva
 
 Arte: Ighor "ReaperFoxy" Morais
+
+**PopIt!**
+
+PopIt! é um jogo casual do gênero "Corrida Interminável", desenvolvido para Android. O jogador testará sua destreza para capturar diferentees formas geométricas e marcará pontos com base em seu desempenho! Conforme avança numa determinada jogatina, acumula carga para usar o seu poder. Ao utilizá-lo, o tempo é congelado por alguns segundos, ganhando tempo para capturar todos os objetivos na tela.
 
 ### DEMOs
 
