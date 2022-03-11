@@ -135,3 +135,9 @@ Motor Utilizado: Godot Engine
 Programação: BrunoBandeiraSilva
  
 Arte e Modelagem: Ighor "ReaperFoxy" Morais
+
+**Terreno Destrutível em 2D**
+
+Demo inspirada no jogo "Broforce" da "Free Lives Games". Este protótipo tinha por objetivo criar um jogo com suporte para até 4 jogadores, com um terreno que pudesse ser destruído pelas ferramentas dos mesmos. Foi bem sucedido.
+
+
