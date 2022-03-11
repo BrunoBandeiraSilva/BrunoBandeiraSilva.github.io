@@ -50,7 +50,7 @@ Recursos:
 
 Motor Utilizado: Unity Engine
 
-Programação: BrunoBandeiraSilva, <a href="https://github.com/thyagomoura"> Thyago Moura </a>, <a href="</a>https://github.com/matix0" Mateus Vieira </a>.
+Programação: BrunoBandeiraSilva, <a href="https://github.com/thyagomoura"> Thyago Moura </a>, <a href="https://github.com/matix0"> Mateus Vieira </a>.
  
 Arte: Ighor "ReaperFoxy" Morais
 
