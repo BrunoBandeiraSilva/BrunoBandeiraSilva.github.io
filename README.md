@@ -65,7 +65,7 @@ PopIt! é um jogo casual do gênero "Corrida Interminável", desenvolvido para A
 Recursos:
  - Jogatina sem fim
  - Jogo dinâmico no estilo neon
- - Pontuação mais alta para acompanhar o progresso e comparar com amigos
+ - Mostra ao jogador sua pontuação mais alta até o momento para acompanhar o progresso e comparar com amigos
  - Fácil de entender e jogar, difícil de dominar
 
 Programação e Arte: BrunoBandeiraSilva
