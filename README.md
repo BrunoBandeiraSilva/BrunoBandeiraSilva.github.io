@@ -89,6 +89,8 @@ Recursos:
  - Jogo dinâmico no estilo neon
  - Mostra ao jogador sua pontuação mais alta até o momento para acompanhar o progresso e comparar com amigos
  - Fácil de entender e jogar
+ 
+Motor Utilizado: Godot Engine
 
 Programação e Arte: BrunoBandeiraSilva
 
@@ -107,6 +109,8 @@ Recursos:
  - Simples de jogar
  - Recompensas exclusivas ao completar o jogo
  - Jogo de quebra-cabeça desafiador
+ 
+Motor Utilizado: Godot Engine
  
 Programação e Arte: BrunoBandeiraSilva
 
