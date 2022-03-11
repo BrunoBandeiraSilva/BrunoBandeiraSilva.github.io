@@ -50,6 +50,8 @@ Recursos:
 
 Motor Utilizado: Unity Engine
 
+Programação: BrunoBandeiraSilva, <a href="https://github.com/thyagomoura"> Thyago Moura </a>, <a href="</a>https://github.com/matix0">.
+
 **SoulWeak**
 
 SoulWeak é um RPG de turnos do gênero _Roguelite_. O jogador assume o papel de uma alma perdida que precisa lutar para escapar de uma masmorra. Para cumprir seu objetivo, enfrentará 10 andares de 3 tipos diferentes de inimigos, cada um destes com suas forças e fraquezas. Ao longo de sua jornada, o personagem pode ser aprimorado, além de ser capaz de adquirir runas mágicas e magias poderosas.
