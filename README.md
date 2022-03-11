@@ -21,6 +21,8 @@ Página do GameJam: <a href="https://gamejolt.com/c/gamemaker/ogxgj"> GameJamOpe
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xqsm3-qywm8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<a href="https://gamejolt.com/games/morph-f-o/639358"> Jogar MORPH-F-O! </a>
+
 Recursos:
  - Jogo arcade no estilo "Corrida Interminável"
  - Suporta 2 jogadores de uma vez
