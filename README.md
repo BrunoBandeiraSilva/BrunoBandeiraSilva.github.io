@@ -16,7 +16,7 @@ Nascido em Brasília, desde pequeno tem os _videogames_ como principal passatemp
 
 **MORPH-F-O!**
 
-MORPH-F-O! foi desenvolvido durante o GameJam promovido pelo navegador de internet "Opera GX". O vencedor do Jam receberia a premiação de US$ 10 mil e teria seu jogo incorporado ao navegador. O tema do GameJam foi _UFO_, inglês para OVNI.
+MORPH-F-O! foi desenvolvido para participar do GameJam promovido pelo navegador de internet "Opera GX". O vencedor do Jam receberia a premiação de US$ 10 mil e teria seu jogo incorporado ao navegador. O tema do GameJam foi _UFO_, inglês para OVNI.
 
 Página do GameJam: <a href="https://gamejolt.com/c/gamemaker/ogxgj"> GameJamOperaGX </a>
 
