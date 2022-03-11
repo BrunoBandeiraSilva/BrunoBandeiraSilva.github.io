@@ -19,12 +19,17 @@ MORPH-F-O! foi desenvolvido durante o GameJam promovido pelo navegador de intern
 
 Página do GameJam: <a href="https://gamejolt.com/c/gamemaker/ogxgj"> GameJamOperaGX </a>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xqsm3-qywm8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Recursos:
  - Jogo arcade no estilo "Corrida Interminável"
  - Suporta 2 jogadores de uma vez
  - Mecânica simples, apenas um botão
  - Personagem transita entre dois modos ao longo da jogatina (terrestre e aéreo)
  - Dificuldade do jogo aumenta conforme o jogador avança
+ 
+ Motor Utilizado: Godot Engine
+ Programação e Arte feitas por BrunoBandeiraSilva
 
 
 ### DEMOs
