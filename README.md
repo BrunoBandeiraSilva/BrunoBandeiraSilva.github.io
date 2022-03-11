@@ -66,7 +66,7 @@ Recursos:
  - Jogatina sem fim
  - Jogo dinâmico no estilo neon
  - Mostra ao jogador sua pontuação mais alta até o momento para acompanhar o progresso e comparar com amigos
- - Fácil de entender e jogar, difícil de dominar
+ - Fácil de entender e jogar
 
 Programação e Arte: BrunoBandeiraSilva
 
