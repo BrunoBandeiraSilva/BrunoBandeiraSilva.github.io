@@ -29,8 +29,8 @@ Recursos:
  - Dificuldade do jogo aumenta conforme o jogador avança
 
 Motor Utilizado: Godot Engine
-Programação e Arte feitas por BrunoBandeiraSilva
 
+Programação e Arte: BrunoBandeiraSilva
 
 ### DEMOs
 
