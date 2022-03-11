@@ -58,6 +58,18 @@ Arte: Ighor "ReaperFoxy" Morais
 
 PopIt! é um jogo casual do gênero "Corrida Interminável", desenvolvido para Android. O jogador testará sua destreza para capturar diferentees formas geométricas e marcará pontos com base em seu desempenho! Conforme avança numa determinada jogatina, acumula carga para usar o seu poder. Ao utilizá-lo, o tempo é congelado por alguns segundos, ganhando tempo para capturar todos os objetivos na tela.
 
+[Link para jogar disponível em breve]
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0iV0bMaD5e4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Recursos:
+ - Jogatina sem fim
+ - Jogo dinâmico no estilo neon
+ - Pontuação mais alta para acompanhar o progresso e comparar com amigos
+ - Fácil de entender e jogar, difícil de dominar
+
+Programação e Arte: BrunoBandeiraSilva
+
 ### DEMOs
 
 ```markdown
