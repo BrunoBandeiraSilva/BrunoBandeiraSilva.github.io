@@ -50,9 +50,11 @@ Recursos:
 
 Motor Utilizado: Unity Engine
 
-Programação: BrunoBandeiraSilva, <a href="https://github.com/thyagomoura"> Thyago Moura </a>, <a href="</a>https://github.com/matix0">.
+Programação: BrunoBandeiraSilva, <a href="https://github.com/thyagomoura"> Thyago Moura </a>, <a href="</a>https://github.com/matix0" Mateus Vieira>.
+ 
+Arte: Ighor "ReaperFoxy" Morais
 
-**SoulWeak**
+**Soul Weak**
 
 SoulWeak é um RPG de turnos do gênero _Roguelite_. O jogador assume o papel de uma alma perdida que precisa lutar para escapar de uma masmorra. Para cumprir seu objetivo, enfrentará 10 andares de 3 tipos diferentes de inimigos, cada um destes com suas forças e fraquezas. Ao longo de sua jornada, o personagem pode ser aprimorado, além de ser capaz de adquirir runas mágicas e magias poderosas.
 
@@ -76,11 +78,11 @@ Arte: Ighor "ReaperFoxy" Morais
 
 **PopIt!**
 
-PopIt! é um jogo casual do gênero "Corrida Interminável", desenvolvido para Android. O jogador testará sua destreza para capturar diferentees formas geométricas e marcará pontos com base em seu desempenho! Conforme avança numa determinada jogatina, acumula carga para usar o seu poder. Ao utilizá-lo, o tempo é congelado por alguns segundos, ganhando tempo para capturar todos os objetivos na tela.
-
-[Link para jogar disponível em breve]
+PopIt! é um jogo casual do gênero "Corrida Interminável", desenvolvido para Android. O jogador testará sua destreza para capturar diferentes formas geométricas e marcará pontos com base em seu desempenho! Conforme avança numa determinada jogatina, acumula carga para usar o seu poder. Ao utilizá-lo, o tempo é congelado por alguns segundos, ganhando tempo para capturar todos os objetivos na tela.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0iV0bMaD5e4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+[Link para jogar disponível em breve]
 
 Recursos:
  - Jogatina sem fim
@@ -90,7 +92,22 @@ Recursos:
 
 Programação e Arte: BrunoBandeiraSilva
 
+**Invisible Maze**
+ 
+Invisible Maze é um jogo de labirinto com uma virada única: as paredes do labirinto são invisíveis! O jogador é avaliado com base no tempo que levou para concluir a fase.
 
+
+
+[Link para jogar disponível em breve]
+ 
+Recursos:
+ - 33 níveis, cada um mais desafiador que o outro
+ - Mais de 10 aparências para o personagem
+ - 2 línguas disponíveis (Português BR e Inglês EUA)
+ - Simples de jogar
+ - Recompensas exclusivas ao final
+ 
+Programação e Arte: BrunoBandeiraSilva
 
 ### DEMOs
 
