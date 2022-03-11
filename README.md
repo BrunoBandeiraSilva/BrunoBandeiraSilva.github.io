@@ -34,9 +34,15 @@ Motor Utilizado: Godot Engine
 
 Programação e Arte: BrunoBandeiraSilva
 
+**Synchronus2D**
+
+Synchronus2D é um jogo contemplativo do gênero _Point and Click_. Feito por uma equipe de 5 pessoas, possui como tema os signos do zodíaco. Sua proposta é apresentar o tema de forma lúdica, interativa e intuitiva.
+
 **SoulWeak**
 
 SoulWeak é um RPG de turnos do gênero _Roguelite_. O jogador assume o papel de uma alma perdida que precisa lutar para escapar de uma masmorra. Para cumprir seu objetivo, enfrentará 10 andares de 3 tipos diferentes de inimigos, cada um destes com suas forças e fraquezas. Ao longo de sua jornada, o personagem pode ser aprimorado, além de ser capaz de adquirir runas mágicas e magias poderosas.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZThVven3SFE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Link para jogar disponível em breve]
 
@@ -69,6 +75,8 @@ Recursos:
  - Fácil de entender e jogar
 
 Programação e Arte: BrunoBandeiraSilva
+
+
 
 ### DEMOs
 
