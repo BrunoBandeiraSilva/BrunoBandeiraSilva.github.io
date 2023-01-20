@@ -30,7 +30,7 @@ Recursos:
  - Personagem transita entre dois modos ao longo da jogatina (terrestre e aéreo)
  - Dificuldade do jogo aumenta conforme o jogador avança
 
-Motor Utilizado: Godot Engine
+Motor Utilizado: Game Maker 2 Engine
 
 Programação e Arte: BrunoBandeiraSilva
 
